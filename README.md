@@ -34,3 +34,6 @@ docker build --progress=plain -t aws-go-cdk-action:latest .
 ```sh
 docker run -it --rm aws-go-cdk-action:latest /bin/bash
 ```
+
+## Force build
+Force 1
